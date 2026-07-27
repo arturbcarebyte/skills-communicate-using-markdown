@@ -1,4 +1,4 @@
-## Step 2: Make a list
+## Step 2: Make a list++
 
 Markdown supports 3 types of common lists. They include:
 
